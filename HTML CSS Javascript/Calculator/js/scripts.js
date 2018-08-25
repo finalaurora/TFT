@@ -1,18 +1,29 @@
 var result = 0;
 var operand = 0;
-var operator;
+var operator="none";
+var decimal="";
 
 function pressbtnAC() {
     operand = 0;
     result = 0;
     operator = "none";
+    decimal="";
     document.getElementById("screen").value = operand;
 }
 
+function pressbtnDec() {
+    decimal = operand.toString() + ".";
+    document.getElementById("screen").value = decimal;
+}
+
 function pressbtn(num) {
-    var val = operand;
-    operand = operand * 10 + num;
-    document.getElementById("screen").value = operand;
+        decimal=decimal+num;
+        operand = parseFloat(decimal);
+    console.log("num: ",num);
+    console.log("decimal: ",decimal);
+    console.log("operand: ",operand);
+    console.log("result: ",result);
+    document.getElementById("screen").value = decimal;
 }
 
 function pressBtnDivide() {
@@ -34,47 +45,55 @@ function pressBtnMultiply() {
     Evaluate();
     operator = "multiply";
 }
-function pressbtnEqual(){
+
+function pressbtnEqual() {
     Evaluate();
 }
+
 function Evaluate() {
     switch (operator) {
         case "plus":
             {
-                result += operand;
-                operand=0;
+                result = result+operand;
+                operand = 0;
+                decimal="";
                 document.getElementById("screen").value = result;
                 break;
             }
         case "divide":
             {
-                result /= operand;
-                operand=0;
+                result = result/operand;
+                operand = 0;
+                decimal=0;
                 document.getElementById("screen").value = result;
                 break;
             }
         case "multiply":
             {
-                result *= operand;
-                operand=0;
+                result = result*operand;
+                operand = 0;
+                decimal="";
                 document.getElementById("screen").value = result;
                 break;
             }
         case "subtract":
             {
                 result = result - operand;
-                operand=0;
+                operand = 0;
+                decimal="";
                 document.getElementById("screen").value = result;
                 break;
             }
-        default:
+        case "none":
             {
-                result=operand;
+                result = operand;
+                decimal="";
                 document.getElementById("screen").value = 0;
-                operator = "none";
                 operand = 0;
                 break;
             }
+            default:{
+                document.getElementById("screen").value = result;
+            }
     }
-
 }
