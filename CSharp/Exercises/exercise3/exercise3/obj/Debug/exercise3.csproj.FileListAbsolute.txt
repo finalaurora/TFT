@@ -12,3 +12,10 @@ D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.csprojAsse
 D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
 D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.exe
 D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.pdb
+D:\Documents\TFT\CSharp\Exercises\exercise3\exercise3\bin\Debug\exercise3.exe.config
+D:\Documents\TFT\CSharp\Exercises\exercise3\exercise3\bin\Debug\exercise3.exe
+D:\Documents\TFT\CSharp\Exercises\exercise3\exercise3\bin\Debug\exercise3.pdb
+D:\Documents\TFT\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.csprojAssemblyReference.cache
+D:\Documents\TFT\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+D:\Documents\TFT\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.exe
+D:\Documents\TFT\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.pdb
