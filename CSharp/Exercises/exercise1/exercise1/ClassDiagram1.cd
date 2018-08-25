@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="exercise1.Battery">
+    <Position X="1.25" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="exercise1.Battery.BatteryType">
+        <TypeIdentifier>
+          <NewMemberFileName>Battery.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAABIAAAAAAQgAAAAAAAA=</HashCode>
+      <FileName>Battery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercise1.Call">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAACAAAAAAAAAAAAAAAAAAQBAAAAAAAAAQA=</HashCode>
+      <FileName>Call.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercise1.Display">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAgAAEAAAAAEAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Display.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercise1.GSM">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAQAAAQIAAAAEAAAAgAAQAAAAQAIAAAAAAAAAAAA=</HashCode>
+      <FileName>GSM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercise1.GSMCallHistoryTest">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAAAAAAAAAAgAAAAAAEAAgAARAAAAAAA=</HashCode>
+      <FileName>GSMCallHistoryTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercise1.GSMTest">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GSMTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercise1.MobilePhone">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAACAAQAAAAAEAAAAAAAAAAAAAACAAAgAAAAAAAA=</HashCode>
+      <FileName>MobilePhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exercise1.Program">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

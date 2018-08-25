@@ -1,0 +1,14 @@
+D:\Personal\CSharp\Projects\Excercises\exercise3\exercise3\bin\Debug\exercise3.exe.config
+D:\Personal\CSharp\Projects\Excercises\exercise3\exercise3\bin\Debug\exercise3.exe
+D:\Personal\CSharp\Projects\Excercises\exercise3\exercise3\bin\Debug\exercise3.pdb
+D:\Personal\CSharp\Projects\Excercises\exercise3\exercise3\obj\Debug\exercise3.csprojAssemblyReference.cache
+D:\Personal\CSharp\Projects\Excercises\exercise3\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+D:\Personal\CSharp\Projects\Excercises\exercise3\exercise3\obj\Debug\exercise3.exe
+D:\Personal\CSharp\Projects\Excercises\exercise3\exercise3\obj\Debug\exercise3.pdb
+D:\Documents\CSharp\Exercises\exercise3\exercise3\bin\Debug\exercise3.exe.config
+D:\Documents\CSharp\Exercises\exercise3\exercise3\bin\Debug\exercise3.exe
+D:\Documents\CSharp\Exercises\exercise3\exercise3\bin\Debug\exercise3.pdb
+D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.csprojAssemblyReference.cache
+D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.exe
+D:\Documents\CSharp\Exercises\exercise3\exercise3\obj\Debug\exercise3.pdb

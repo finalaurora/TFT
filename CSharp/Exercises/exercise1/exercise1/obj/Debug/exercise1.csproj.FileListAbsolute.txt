@@ -1,0 +1,13 @@
+D:\Personal\CSharp\Projects\Excercises\exercise1\exercise1\bin\Debug\exercise1.exe.config
+D:\Personal\CSharp\Projects\Excercises\exercise1\exercise1\bin\Debug\exercise1.exe
+D:\Personal\CSharp\Projects\Excercises\exercise1\exercise1\bin\Debug\exercise1.pdb
+D:\Personal\CSharp\Projects\Excercises\exercise1\exercise1\obj\Debug\exercise1.csprojResolveAssemblyReference.cache
+D:\Personal\CSharp\Projects\Excercises\exercise1\exercise1\obj\Debug\exercise1.exe
+D:\Personal\CSharp\Projects\Excercises\exercise1\exercise1\obj\Debug\exercise1.pdb
+D:\Documents\CSharp\Exercises\exercise1\exercise1\bin\Debug\exercise1.exe.config
+D:\Documents\CSharp\Exercises\exercise1\exercise1\bin\Debug\exercise1.exe
+D:\Documents\CSharp\Exercises\exercise1\exercise1\bin\Debug\exercise1.pdb
+D:\Documents\CSharp\Exercises\exercise1\exercise1\obj\Debug\exercise1.csprojAssemblyReference.cache
+D:\Documents\CSharp\Exercises\exercise1\exercise1\obj\Debug\exercise1.csproj.CoreCompileInputs.cache
+D:\Documents\CSharp\Exercises\exercise1\exercise1\obj\Debug\exercise1.exe
+D:\Documents\CSharp\Exercises\exercise1\exercise1\obj\Debug\exercise1.pdb
