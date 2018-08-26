@@ -17,22 +17,34 @@ body{
     padding: 3px;
     margin-bottom: 10px;
     display: grid;
-    height: 76%;
+    height: 60%;
     width: 96%;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 #screen {
     font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 40px;
+    
     text-align: right;
-    background: #eee;
-    height: 20%;
+    background: #555;
+    overflow: hidden;
+    color: white;
+    height: 30%;
     width: 96%;
+    margin-bottom: 5px;
     padding: 5px;
-    margin: 5px;
     border: 1px;
     border-radius: 2px;
+}
+#expression{
+    height: 40%;
+    margin-bottom: 0px;
+}
+#result{
+    color: white;
+    font-size: 40px;
+    height: 60%;
+    margin-bottom: 0px;
 }
 .btn.operator{
     background-color: #f99112;
